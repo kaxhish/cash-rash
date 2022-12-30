@@ -7,5 +7,5 @@ make bcz i am a little bit slow in mathematics so it helps to..
 technologies used-- html, css, javascript
 
 you can check it out through these links--
-output--
-code source--
+output--https://cash-rash.vercel.app/
+code source--https://github.com/kaxhish/cash-rash
