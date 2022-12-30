@@ -1,0 +1,46 @@
+.all {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  * {
+    background-color: #bebdbd;
+    text-transform: capitalize;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+  }
+  .bill {
+    margin: 30px;
+    padding: 20px;
+    word-spacing: 7px;
+    border-radius: 15px;
+  }
+  .cash {
+    margin: 30px;
+    padding: 20px;
+    word-spacing: 7px;
+    border-radius: 15px;
+  }
+  .check {
+    margin: 30px;
+    padding: 20px;
+    word-spacing: 7px;
+  }
+  table {
+    border: 5px solid black;
+    margin: 50px;
+    margin-left: 500px;
+    width: 700px;
+    height: 200px;
+  }
+  tr {
+    border: 5px solid rgb(182, 71, 71);
+  }
+  td {
+    border: 5px solid rgb(0, 0, 0);
+  }
+  
