@@ -1,4 +1,4 @@
-# cash-rash
+# cash-rashing
  
 this is a cash register app . you can ofently use if you are 
 are not good enough in mathematics. beside the reason of submission i like to 
